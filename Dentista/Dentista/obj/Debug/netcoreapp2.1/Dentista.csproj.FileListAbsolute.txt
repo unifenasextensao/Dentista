@@ -1,0 +1,11 @@
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\bin\Debug\netcoreapp2.1\Dentista.deps.json
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\bin\Debug\netcoreapp2.1\Dentista.runtimeconfig.json
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\bin\Debug\netcoreapp2.1\Dentista.runtimeconfig.dev.json
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\bin\Debug\netcoreapp2.1\Dentista.dll
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\bin\Debug\netcoreapp2.1\Dentista.pdb
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.csprojAssemblyReference.cache
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.AssemblyInfoInputs.cache
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.AssemblyInfo.cs
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.dll
+C:\Users\vinic\Source\Repos\unifenasextensao\Dentista\Dentista\Dentista\obj\Debug\netcoreapp2.1\Dentista.pdb
